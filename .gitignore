@@ -1,0 +1,10 @@
+build.*
+.config.mk
+
+*~
+*.pyc
+.*.sw[op]
+*.bak
+*.orig
+*.patch
+*+
